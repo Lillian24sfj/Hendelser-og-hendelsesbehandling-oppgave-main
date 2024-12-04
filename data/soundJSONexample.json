@@ -1,0 +1,16 @@
+{
+  "soundFiles": [
+    { "file": "./angry-cat-hq-sound-effect-240675.mp3", "key": "a" },
+    { "file": "./bird-sounds-in-the-forest-223177.mp3", "key": "s" },
+    { "file": "./chatty-pigs-224472.mp3", "key": "d" },
+    { "file": "./crow-64028.mp3", "key": "f" },
+    { "file": "./deer-baby-calling-for-mama-233035.mp3", "key": "g"},
+    { "file": "./frog-in-the-morning-244785.mp3", "key": "h"},
+    { "file": "./gajah-220044.mp3", "key": "i"},
+    { "file": "./horse-neigh-261131.mp3", "key": "j"},
+    { "file": "./hungry-cat-254850.mp3", "key": "k"},
+    { "file": "./lion-roar-6011.mp3", "key": "l"},
+    { "file": "./rooster-233738.mp3", "key": "r"},
+    { "file": "./scary-wolf-growling-224086.mp3", "key": "b"}
+  ]
+}
